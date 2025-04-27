@@ -24,6 +24,9 @@ Seismic data were preprocessed using **ObsPy**, and deep learning models were im
   
 - **Rockfall seismic data**:  
   [https://landslide.geologycloud.tw/map?locale=en](https://landslide.geologycloud.tw/map?locale=en)
+  
+- **Earthquake seismic data**:  
+  [STEAD Earthquake Dataset](https://doi.org/10.1038/s41597-019-0095-6) ([Mousavi et al., 2019](https://doi.org/10.1038/s41597-019-0095-6))
 
 ---
 

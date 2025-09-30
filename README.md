@@ -43,7 +43,7 @@ pip install matplotlib
 
 ---
 
-##  Code and Publication
+## Code and Publication
 
 This repository provides the implementation of the methods described in the following publication:
 

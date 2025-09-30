@@ -41,6 +41,8 @@ pip install scikit-learn
 pip install numpy
 pip install matplotlib
 
+---
+
 ##  Code and Publication
 
 This repository provides the implementation of the methods described in the following publication:

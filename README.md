@@ -41,16 +41,3 @@ pip install scikit-learn
 pip install numpy
 pip install matplotlib
 
----
-
-## Code and Publication
-
-This repository provides the implementation of the methods described in the following publication:
-
-Zhiyong Huang, Zongji Yang, Bo Pang, Zhaoying Wu, Liang Feng (2025).
-Characterizing and clustering debris flow and environmental noise seismic signals using unsupervised deep learning.
-Geophysical Journal International, Volume 243, Issue 2, November 2025, ggaf353.
-https://doi.org/10.1093/gji/ggaf353
-
-If you use this code, please cite the above article.
-
